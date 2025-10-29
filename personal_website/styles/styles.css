@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+:root{
+    --primary-color: #292F36;
+    --secondary-color: #4ECDC4;
+    --accent-color: #e74c3c;
+    --text-color-dark:#292F36;
+    --text-color-light: #FFFFFF;
+    --background-light: #4ECDC4;
+
+
+}
