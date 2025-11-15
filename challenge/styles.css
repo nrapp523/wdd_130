@@ -1,0 +1,27 @@
+p {
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+html, body{
+    padding: 0;
+    margin: 0;
+}
+#top_paragraph{
+    color: blue;
+}
+h1{
+    text-align: center;
+}
+div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 50px;
+    overflow: hidden;
+
+}
+.mini{
+    border-right: 1px solid gray;
+    background-color: blue;
+}

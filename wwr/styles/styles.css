@@ -193,3 +193,9 @@ margin-top: -100px;
     opacity: .6;
     transform: scale(1.1);
 }
+#river_heading{
+    text-align: center;
+}
+.main_section{
+    text-align: center;
+}
