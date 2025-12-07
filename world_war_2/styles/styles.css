@@ -51,19 +51,19 @@ nav a:hover{
     display: block;
     margin: 0 auto;
 }
-body img{
+main img{
     width: 90%;
     display: block;
     margin: 0 auto;
 }
-body{
+main{
     text-align: center;
 }
 .main_section h1{
     color: #e74c3c;
     font-family: "Playfair Display", serif;
 }
-body p{
+main p{
     font-family:  Arial, Verdana, Helvetica;;
 }
 footer {
