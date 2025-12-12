@@ -124,3 +124,10 @@ main h1{
      font-family: "Playfair Display", serif;
      color:#e74c3c;
 }
+.bottom_element{
+    text-align: center;
+    background-color: #4ECDC4;
+    margin-top: 50px;
+    padding: 50px;
+    margin-bottom: 50px;
+}
