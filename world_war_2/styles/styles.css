@@ -102,6 +102,7 @@ details p{
 }
 #top_timeline{
     background-color: #e74c3c;
+    border-top: solid #292F36 20px;
 }
 #bottom_timeline{
     border-top: solid white 5px;
